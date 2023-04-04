@@ -56,22 +56,22 @@ VALUES
 --не менее 15 треков
 INSERT INTO tracks  
 VALUES 
-(1, 'Stuck on You', '2:18', 1),
-(2, 'Fame and Fortune', '2:29', 1),
-(3, 'Only the Lonely', '2:26', 2),
-(4, 'Bye Bye Love', '2:14', 2),
-(5, 'Dazed and Confuzed', '6:27', 3),
-(6, 'You Shook me', '6:28', 3),
-(7, 'Pictures of Home', '5:06', 4),
-(8, 'Smoke on the Water', '5:40', 4),
-(9, 'Life is a Bitch', '3:31', 5),
-(10, 'The Genesis', '1:45', 5),
-(11, 'Father', '0:57', 6),
-(12, 'Kesson Dalef', '1:21', 6),
-(13, 'With You Friends', '6:22', 7),
-(14, 'Fucking Die 1', '3:50', 7),
-(15, 'The Wild Rover', '3:13', 8),
-(16, 'Rocky Road to Dublin', '2:34', 8);
+(1, 'Stuck on You', '00:2:18', 1),
+(2, 'Fame and Fortune', '00:2:29', 1),
+(3, 'Only the Lonely', '00:2:26', 2),
+(4, 'Bye Bye Love', '00:2:14', 2),
+(5, 'Dazed and Confuzed', '00:6:27', 3),
+(6, 'You Shook me', '00:6:28', 3),
+(7, 'Pictures of Home', '00:5:06', 4),
+(8, 'Smoke on the Water', '00:5:40', 4),
+(9, 'Life is a Bitch', '00:3:31', 5),
+(10, 'The Genesis', '00:1:45', 5),
+(11, 'Father', '00:0:57', 6),
+(12, 'Kesson Dalef', '00:1:21', 6),
+(13, 'With You Friends', '00:6:22', 7),
+(14, 'Fucking Die 1', '00:3:50', 7),
+(15, 'The Wild Rover', '00:3:13', 8),
+(16, 'Rocky Road to Dublin', '00:2:34', 8);
 
 INSERT INTO collection
 VALUES 
